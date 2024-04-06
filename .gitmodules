@@ -1,0 +1,3 @@
+[submodule "gvs_ab"]
+	path = gvs_ab
+	url = git@github.com:vsgrabchuk/gvs_ab.git
